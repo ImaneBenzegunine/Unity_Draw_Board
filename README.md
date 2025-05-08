@@ -49,10 +49,3 @@ MIT License - Feel free to use and modify this project for your needs.
 
 Imane BENZEGUNINE
 LINKEDIN: https://www.linkedin.com/in/imane-benzegunine/
-
-You can copy this markdown directly into your README.md file. For the images referenced:
-1. Save your test image as `whiteboard-example.png`
-2. Save your inspector configuration screenshot as `inspector-config.png`
-3. Place both in your project's root directory before pushing to GitHub
-
-Would you like me to modify any part of this README or suggest additional sections?
